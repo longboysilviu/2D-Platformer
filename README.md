@@ -1,3 +1,3 @@
-# Portfolio
+# Personal Portfolio
 
-joc
+This is my first ever game created using C# in Unity.
